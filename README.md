@@ -1,4 +1,4 @@
-# flutter_datatable
+# Flutter DatTable Demo 
 
 A new Flutter application.
 
